@@ -1,0 +1,2 @@
+The total value of 172 items is: $949.04
+ The average price has been determined to be: $5.52
